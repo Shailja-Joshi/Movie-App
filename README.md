@@ -13,6 +13,6 @@ A Web App to visualize the top-rated movies.
 - JavaScript  
 
 
- Link to website: https://nitinshaily.github.io/Movie-App/  
+ Link to website:  https://shailja-joshi.github.io/Movie-App/ 
  
  Inspired by: Florin Pop (Youtube)
